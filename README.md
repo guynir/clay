@@ -1,2 +1,2 @@
-# clay
-A simple blog system.
+# Clay
+A simple blogging system.
